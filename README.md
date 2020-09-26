@@ -1,2 +1,2 @@
-# -Riego-Autom-tico-en-plantas-del-hogar.-
+# -Riego-Automatico-en-plantas-del-hogar.-
 El objetivo general de este proyecto es combinar soluciones de hardware y software libres para desarrollar un sistema autónomo de riego. Este gestionará el monitoreo y control de una planta para mejorar la vida de la misma y permitirle al usuario mayor comodidad, sin que esté pendiente del cuidado de esta. Para la interfaz de usuario se utilizó un Display LCD y un teclado matricial para la configuración del sistema y visualización de riego. Se diseñó un reloj para las alarmas y se utilizó un sensor de humedad de superficie y una bomba de dosificación de agua. Se implementó con EDU-CIAA en la materia taller de proyecto 1 en 4to año de la carrera.
